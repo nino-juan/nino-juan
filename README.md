@@ -5,7 +5,7 @@
  
 😍 I've recently fallen in love with open source  (specially open source hardware) and  I'm eagerly learning 🌱 how to harness its power to tackle individual 👤 and community problems 🌍.  
 Hence, I created [LibreTactile](https://github.com/LibreTactile) to apply my experience to the development of open source assistive technologies.  
-I hope LibreTactile will create useful stuff for visually impaired users (and anyone interested in tactile hci, really), while connect with like-minded people and grow as a developer. 
+I hope LibreTactile will create useful stuff for visually impaired users 🦯 (and anyone interested in tactile hci, really), while I connect with like-minded people and grow as a developer. 
 
 
 ## Get in touch:
