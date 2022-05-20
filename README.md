@@ -1,4 +1,4 @@
-
+![Juan Nino's Logo](/JN-logo.png)
 # Juan Nino
 
 🎓 I'm a PhD student at Laval University in Canada (I come from Mexico with a background in mechatronics engineering 🦾🧑‍🛠️). I started my carrer by tackling (manufacturing🏭) industry challenges, however, for the last 10+ years I've built interesting stuff with electronics, code, 3dprinting to implement academic research projects 🏫 and gaming/music/artistic  🎮🎹🎨 installations which reimagine how we interact with data and technology.
