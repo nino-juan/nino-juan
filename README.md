@@ -2,7 +2,7 @@
 # Juan Nino
 
 🎓 I'm a Ph.D. student at Laval University in Canada. I have a background in mechatronics engineering 🦾🧑‍ (completed in Mexico). I started my career by tackling manufacturing industry challenges.  
-However, for the last 10+ years, I've built interesting stuff using electronics, programming, and 3d printing. Generally, I implement academic research projects 🏫 and gaming/music/artistic 🎮🎹🎨 installations which reimagine how we interact with data, technology, identity, community, and disability.
+However, for the last 10+ years, I've built interesting stuff using electronics, programming, and 3d printing. Generally, I implement (academic) [research-creation](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/definitions-eng.aspx#:~:text=Research%2Dcreation%3A,%2C%20scholarly%20investigation%2C%20and%20experimentation.) projects 🏫 and gaming/music/artistic 🎮🎹🎨 installations which reimagine how we interact with data, technology, identity, community, and disability.
 I've recently fallen in love with open source (specially open source hardware) and I'm eagerly learning how to harness its power to tackle individual and community problems 🌍.
   
 Recently, I created [LibreTactile](https://github.com/LibreTactile) to accelerate the development of open source assistive technologies.  
