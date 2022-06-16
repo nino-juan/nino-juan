@@ -1,4 +1,5 @@
-![Juan Nino's Logo](/JN-logo.png)
+<img src="https://raw.githubusercontent.com/nino-juan/nino-juan/main/JN-logo.png" alt="JN-logo.png" width="100" height="100">
+
 # Juan Nino
 
 🎓 I'm a Ph.D. student at Laval University in Canada. I have a background in mechatronics engineering 🦾🧑‍. I started my career by tackling manufacturing industry challenges.  
